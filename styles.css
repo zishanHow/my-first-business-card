@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: 'Silkscreen', cursive;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 2px 1px #cc5803;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ff9505;
+    color: #403f4c;
+    border-bottom: 6px solid #cc5803;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+p:hover {
+    font-family: 'Source Code Pro', monospace;
+}
+h3:hover {
+    font-family: 'Source Code Pro', monospace;
+}
+h4:hover {
+    font-family: 'Source Code Pro', monospace;
+}
