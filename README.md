@@ -1,6 +1,6 @@
 # co2014071a71a5e041c7874d5
 My first personal Business Card, 
-Ar Scrimba.
+by Scrimba.
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
